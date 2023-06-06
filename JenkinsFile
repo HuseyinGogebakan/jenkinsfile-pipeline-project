@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo "Clarusway_Way to Reinvent with bodih"
+                echo "Clarusway_Way to Reinvent with Bigbrother"
                 sh 'echo second step'
                 sh 'echo another step'                
                 sh '''
